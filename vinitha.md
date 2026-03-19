@@ -1,4 +1,4 @@
 # job portals
-_ naukri
-_ linkedin
-_ instahyre
+- naukri
+- linkedin
+- instahyre
